@@ -1,0 +1,14 @@
+{
+    "name": "niconico-viewer",
+    "version": "1.0.0",
+    "description": "A simple Electron application to view Niconico video site",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "electron": "^26.1.0"
+    }
+  }
